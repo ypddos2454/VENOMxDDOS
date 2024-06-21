@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#By Indian Watchdogs @Indian_Hackers_Team
+#By @venomXCRAZY
 
 import telebot
 import subprocess
